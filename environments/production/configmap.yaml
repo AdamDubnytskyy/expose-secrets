@@ -1,0 +1,11 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: common
+data:
+  DB_PWD: "KAdKaDpOeWq3N3y1"
+  PASSWORD: "f8salkhasifh1lk3fni1ppfu13ijfl1j2fli12fh1l2kh"
+  API_KEY_1: "kvdjoifj3f2l3nl23hf32lf-lka231"
+  SECRET_TOKEN: "anLHHALhlahialU&2nkjs"
+  AWS_ACCESS_KEY_ID: "LKSAD232LKJKNLNLK"
+  AWS_SECRET_ACCESS_KEY: "msadkasod21+2iudHSJKAHJSADKJKJDAS"
